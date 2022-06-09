@@ -153,7 +153,7 @@ async def play(_, message: Message):
 
         file_name = get_file_name(audio)
         title = file_name
-        thumb_name = "https://te.legra.ph/file/6cd9f66b31f79b5879bbd.jpg"
+        thumb_name = "https://telegra.ph//file/35c5ff1fc7559d30d8892.jpg"
         thumbnail = thumb_name
         duration = round(audio.duration / 60)
         views = "Locally added"
@@ -216,21 +216,21 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/H_4_HARRY_OFFICIAL")
+                            url=f"https://t.me/C_H_U_D_A_I")
                ],
                [
                     InlineKeyboardButton(
                             text="💔𓊈 𝐁𝐑𝐎𝐊𝐄𝐍 𓊉💔",
-                            url=f"https://t.me/BROKENLONDAZ"),
+                            url=f"https://t.me/ITZ_B_R_O_K_E_N"),
                             
                     InlineKeyboardButton(
                             text="𝐒𝐔𝐏𝐏𝐎𝐑𝐓",
-                            url=f"https://t.me/Flarting_chatting")
+                            url=f"https://t.me/The_Exterminators")
                ],
                [
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/Flarting_chatting")
+                            url=f"https://t.me/The_Exterminators")
                    
                 ]
             ]
@@ -238,7 +238,7 @@ async def play(_, message: Message):
 
         except Exception as e:
             title = "NaN"
-            thumb_name = "https://te.legra.ph/file/6cd9f66b31f79b5879bbd.jpg"
+            thumb_name = "https://telegra.ph//file/35c5ff1fc7559d30d8892.jpg"
             duration = "NaN"
             views = "NaN"
             keyboard = InlineKeyboardMarkup(
@@ -246,21 +246,21 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/H_4_HARRY_OFFICIAL")
+                            url=f"https://t.me/C_H_U_D_A_I")
                ],
                [
                     InlineKeyboardButton(
                             text="💔𓊈 𝐁𝐑𝐎𝐊𝐄𝐍 𓊉💔",
-                            url=f"https://t.me/BROKENLONDAZ"),
+                            url=f"https://t.me/ITZ_B_R_O_K_E_N"),
                             
                     InlineKeyboardButton(
                             text="𝐒𝐔𝐏𝐏𝐎𝐑𝐓",
-                            url=f"https://t.me/Flarting_chatting")
+                            url=f"https://t.me/The_Exterminators")
                ],
                [
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/Flarting_chatting")
+                            url=f"https://t.me/The_Exterminators")
                    
                 ]
             ]
@@ -314,21 +314,21 @@ async def play(_, message: Message):
                  [
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/H_4_HARRY_OFFICIAL")
+                            url=f"https://t.me/C_H_U_D_A_I")
                ],
                [
                     InlineKeyboardButton(
                             text="💔𓊈 𝐁𝐑𝐎𝐊𝐄𝐍 𓊉💔",
-                            url=f"https://t.me/BROKENLONDAZ"),
+                            url=f"https://t.me/ITZ_B_R_O_K_E_N"),
                             
                     InlineKeyboardButton(
                             text="𝐒𝐔𝐏𝐏𝐎𝐑𝐓",
-                            url=f"https://t.me/Flarting_chatting")
+                            url=f"https://t.me/The_Exterminators")
                ],
                [
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/Flarting_chatting")
+                            url=f"https://t.me/The_Exterminators")
                    
                 ]
             ]
